@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hwWeek4-1</string>
+    <string name="show_storage_location">Retrieve</string>
+    <string name="textResult" />
+</resources>
